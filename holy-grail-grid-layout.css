@@ -79,7 +79,7 @@ footer {
   font-size: 2rem;
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1297px) {
   nav {
     grid-column: span 3;
     border-right: 0;
