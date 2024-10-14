@@ -71,7 +71,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 980px) {
+/* @media screen and (max-width: 980px) {
   nav, article, aside {
     grid-column: span 3;
   }
@@ -82,4 +82,4 @@ footer {
   article h2 {
     font-size: 2.5em;
   }
-}
+} */
